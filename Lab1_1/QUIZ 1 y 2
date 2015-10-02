@@ -1,0 +1,9 @@
+Luisa Fernanda Suarez Zapata
+QUIZ 1 y 2
+1. man fgets
+2.Relativa desde el Escritorio: cd ../../../../usr/include
+Absoluta: cd /usr/include/
+3.Eliminar un directorio no vacio: rm -r Prueba
+4.El compilador creara un ejecutable con un nombre que él le asignara: a.out
+5.Para correr en background gedit: gedit &
+
